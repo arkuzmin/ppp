@@ -1,0 +1,86 @@
+-------------------------------------------------------
+LOADL_STEP_ID = mgmt.nodes.37714.0
+HOSTNAME: n1104.nodes
+-------------------------------------------------------
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test/test.stud068.37714.trace
+Mem allocated [2]
+Mem allocated [5]
+Mem allocated [1]
+Mem allocated [3]
+Mem allocated [6]
+Mem allocated [4]
+Mem allocated [7]
+Data ready [0]
+Time seq[0] = 58.605781
+Data Bcast [6]
+Data Bcast [7]
+Data Bcast [5]
+Data Bcast [4]
+Data Bcast [0]
+Data to Send [0] 00000000ab366010[   0] =>> 1
+Data Send [0] =>> 1
+Data to Send [0] 00000000ab6426d0[375000] =>> 2
+Data Bcast [1]
+Data Bcast [2]
+Data Bcast [3]
+Data Send [0] =>> 2
+Data to Send [0] 00000000ab91ed90[750000] =>> 3
+Data Send [0] =>> 3
+Data to Send [0] 00000000abbfb450[1125000] =>> 4
+Data Send [0] =>> 4
+Data to Send [0] 00000000abed7b10[1500000] =>> 5
+Data Send [0] =>> 5
+Data to Send [0] 00000000ac1b41d0[1875000] =>> 6
+Data Send [0] =>> 6
+Data to Send [0] 00000000ac490890[2250000] =>> 7
+Data Send [0] =>> 7
+Data Send [0]
+Data Send [0] =>> 8
+Data Recv [1]
+Data Recv [2]
+Data Recv [6]
+Data Recv [3]
+Data Recv [4]
+Data Recv [5]
+Data Recv [7]
+Job done  [5]
+Job done  [1]
+Job done  [7]
+Job done  [4]
+Job done  [2]
+Job done  [3]
+Job done  [0]
+Data to Recv [0] 00000000ad806010[   0] =>> 1
+Data to Recv [0] 00000000ada4ff10[ 250] =>> 2
+Data to Recv [0] 00000000adc99e10[ 500] =>> 3
+Data to Recv [0] 00000000adee3d10[ 750] =>> 4
+Data to Recv [0] 00000000ae12dc10[1000] =>> 5
+Data to Recv [0] 00000000ae377b10[1250] =>> 6
+Data to Recv [0] 00000000ae5c1a10[1500] =>> 7
+Data returned [1]
+time [1]=  7.43185401
+Job done  [6]
+Data returned [2]
+time [2]=  7.43438911
+Data returned [3]
+time [3]=  7.43855619
+Data returned [4]
+time [4]=  7.44107008
+Data returned [5]
+time [5]=  7.44233418
+Data returned [7]
+time [7]=  7.44420409
+time [0]=  7.44528604
+Data returned [6]
+time [6]=  7.44532204
+Data collected [0]
+Data verifeid [0] time = 0.015251
+SpeedUp S(8) =   7.8715284490
+Efitncy E(8) =   0.9839410561

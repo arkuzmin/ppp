@@ -1,0 +1,22 @@
+-------------------------------------------------------
+LOADL_STEP_ID = mgmt.nodes.37722.0
+HOSTNAME: n1102.nodes
+-------------------------------------------------------
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+tv tracefile=/gpfs/home/iu7/stud068/006/test.stud068.37722.trace
+Node 0: value = 1294053902
+Node 1: value = 2062044783
+Node 2: value = 1762016262
+Node 3: value = 376721475
+Node 6: value = 536526928
+Node 4: value = 68096882
+Node 5: value = 841233740
+Node 7: value = 1308835480
+MPI_Reduce: Maximum value 2062044783 found on 1 (0.058677 seconds)
+Send-receive: Maximum value 2062044783 found on 1 (0.000053 seconds)

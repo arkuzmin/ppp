@@ -1,0 +1,28 @@
+If tracesort fails to work out the trace your program,
+you should set proper locale for system `sort` utility.
+
+Add to you envirement
+
+LC_ALL=C
+export LC_ALL
+
+
+New version of file
+.bash_profile
+-----------------------------------------------------------
+# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+# I_MPI_CC=icc
+# export I_MPI_CC
+PATH=$PATH:$HOME/bin:/gpfs/LoadL/bin
+export PATH
+LC_ALL=C
+export LC_ALL
+PS1="[\A \u@\h \w]\$"
